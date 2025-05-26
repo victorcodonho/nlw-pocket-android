@@ -1,4 +1,4 @@
-package com.victorcodonho.nearby.ui.screen.route
+package com.victorcodonho.nearby.ui.route
 
 import kotlinx.serialization.Serializable
 
